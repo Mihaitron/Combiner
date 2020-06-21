@@ -1,0 +1,3602 @@
+fileFormatVersion: 2
+guid: 67310343a99755c439be64e6436926bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6352421912928365478
+    second: Materials1
+  - first:
+      213: 3488122200766696783
+    second: Materials4
+  - first:
+      213: -6005396097908946604
+    second: Materials10
+  - first:
+      213: 2314405913165404196
+    second: Materials7
+  - first:
+      213: 7886494392036789482
+    second: Materials13
+  - first:
+      213: -312318039103235053
+    second: Materials16
+  - first:
+      213: -25818293201469958
+    second: Materials19
+  - first:
+      213: -869537535135381494
+    second: Materials22
+  - first:
+      213: 1168926553715395806
+    second: Materials25
+  - first:
+      213: -580259035992044677
+    second: Materials28
+  - first:
+      213: -5746563318796005652
+    second: Materials31
+  - first:
+      213: 5713960062250115118
+    second: Materials34
+  - first:
+      213: 873420783629131207
+    second: Materials37
+  - first:
+      213: -1467992009981495475
+    second: Materials43
+  - first:
+      213: 5125599334278541884
+    second: Materials46
+  - first:
+      213: 4255535203103398907
+    second: Materials40
+  - first:
+      213: 5150120609514176813
+    second: Materials49
+  - first:
+      213: 4422394170895782274
+    second: Materials52
+  - first:
+      213: 3605045209519629608
+    second: Materials55
+  - first:
+      213: 8693513132797741301
+    second: Materials64
+  - first:
+      213: -7408888128102888708
+    second: Materials61
+  - first:
+      213: -8005407285700851738
+    second: Materials58
+  - first:
+      213: 1113167660732048922
+    second: Materials67
+  - first:
+      213: -3696938524606068081
+    second: Materials70
+  - first:
+      213: 4309381891342543528
+    second: Materials73
+  - first:
+      213: -7361053720949599211
+    second: Materials76
+  - first:
+      213: 5912410602705028907
+    second: Materials79
+  - first:
+      213: -4276590384468331246
+    second: Materials82
+  - first:
+      213: -8765401704089675292
+    second: Materials85
+  - first:
+      213: 1211505897281601752
+    second: Materials88
+  - first:
+      213: -9193580668944048427
+    second: Materials91
+  - first:
+      213: 1959296887236769696
+    second: Materials94
+  - first:
+      213: -5233996805330484097
+    second: Materials2
+  - first:
+      213: -7476466759882590997
+    second: Materials5
+  - first:
+      213: -3810569019546645811
+    second: Materials11
+  - first:
+      213: 7985897682667233430
+    second: Materials8
+  - first:
+      213: -6300964740589096213
+    second: Materials14
+  - first:
+      213: -3464768287849801503
+    second: Materials17
+  - first:
+      213: 936815266822266548
+    second: Materials20
+  - first:
+      213: -3610631161959792493
+    second: Materials23
+  - first:
+      213: 4128808176036305952
+    second: Materials26
+  - first:
+      213: 8290383903884511516
+    second: Materials29
+  - first:
+      213: -4493270988176891520
+    second: Materials32
+  - first:
+      213: 4884111351510152742
+    second: Materials35
+  - first:
+      213: 9212476863913960838
+    second: Materials38
+  - first:
+      213: -3949395156662869415
+    second: Materials44
+  - first:
+      213: 8552079646176422474
+    second: Materials47
+  - first:
+      213: 4498522288939050652
+    second: Materials41
+  - first:
+      213: -838455952791442431
+    second: Materials50
+  - first:
+      213: 2769818845590105107
+    second: Materials53
+  - first:
+      213: 7308353320125614043
+    second: Materials56
+  - first:
+      213: 606067515475391330
+    second: Materials65
+  - first:
+      213: -7293998850984870053
+    second: Materials62
+  - first:
+      213: 5941315123458540925
+    second: Materials59
+  - first:
+      213: 3005611883549244
+    second: Materials68
+  - first:
+      213: -2916077351594123586
+    second: Materials71
+  - first:
+      213: 2452808284949343670
+    second: Materials74
+  - first:
+      213: -2358218931759999905
+    second: Materials77
+  - first:
+      213: 7036147317337795020
+    second: Materials80
+  - first:
+      213: 2843809002076125778
+    second: Materials83
+  - first:
+      213: 7718953412238082645
+    second: Materials86
+  - first:
+      213: -6254388572751799382
+    second: Materials89
+  - first:
+      213: -8422019169877161974
+    second: Materials92
+  - first:
+      213: -6670036044767225491
+    second: Materials95
+  - first:
+      213: 8817589146702865519
+    second: Materials3
+  - first:
+      213: 6395615916943129964
+    second: Materials6
+  - first:
+      213: 693248464459900513
+    second: Materials12
+  - first:
+      213: -6054746704296350356
+    second: Materials9
+  - first:
+      213: 8774423397909143257
+    second: Materials15
+  - first:
+      213: -2417860290593025506
+    second: Materials18
+  - first:
+      213: -6751479108416792006
+    second: Materials21
+  - first:
+      213: 8265509841466554943
+    second: Materials24
+  - first:
+      213: -1983662565805519677
+    second: Materials27
+  - first:
+      213: -519497287285366090
+    second: Materials30
+  - first:
+      213: -4821169903882767997
+    second: Materials33
+  - first:
+      213: 3595127921583877813
+    second: Materials36
+  - first:
+      213: -2855542160711505202
+    second: Materials39
+  - first:
+      213: -5430105710088599618
+    second: Materials45
+  - first:
+      213: -3553635646408604412
+    second: Materials48
+  - first:
+      213: 3885140734524443994
+    second: Materials42
+  - first:
+      213: 3181130942845123820
+    second: Materials51
+  - first:
+      213: 3172977147790147908
+    second: Materials54
+  - first:
+      213: 1432590393101742580
+    second: Materials57
+  - first:
+      213: -8889197703332525177
+    second: Materials66
+  - first:
+      213: 7028039474323081543
+    second: Materials63
+  - first:
+      213: -3180921434227443969
+    second: Materials60
+  - first:
+      213: 2527052647619609140
+    second: Materials69
+  - first:
+      213: 3186171003104451700
+    second: Materials72
+  - first:
+      213: -8201048447020651116
+    second: Materials75
+  - first:
+      213: -8685064950135524824
+    second: Materials78
+  - first:
+      213: -8869514743246283163
+    second: Materials81
+  - first:
+      213: -8558158968709030709
+    second: Materials84
+  - first:
+      213: 8188324424079348798
+    second: Materials87
+  - first:
+      213: -7681657041213898388
+    second: Materials90
+  - first:
+      213: -179027898996924492
+    second: Materials93
+  - first:
+      213: 7252359442551524028
+    second: Materials96
+  - first:
+      213: 4130308240923089861
+    second: Materials_96
+  - first:
+      213: -8471400623498837014
+    second: Materials_97
+  - first:
+      213: -6116695897154446061
+    second: Materials_98
+  - first:
+      213: 211618084798830033
+    second: Materials_99
+  - first:
+      213: -5675274599376282297
+    second: Materials_100
+  - first:
+      213: -2607725795665164507
+    second: Materials_101
+  - first:
+      213: 7965811504469296421
+    second: Materials_102
+  - first:
+      213: -9099200789357085037
+    second: Materials_103
+  - first:
+      213: -524744278398201097
+    second: Materials_104
+  - first:
+      213: -9088823451545632101
+    second: Materials_105
+  - first:
+      213: -4574890591169982948
+    second: Materials_106
+  - first:
+      213: -2043179891318837135
+    second: Materials_107
+  - first:
+      213: 7961971938037480655
+    second: Materials_108
+  - first:
+      213: -1850057435822577975
+    second: Materials_109
+  - first:
+      213: 403438553950740264
+    second: Materials_110
+  - first:
+      213: 8308405047118695203
+    second: Materials_111
+  - first:
+      213: 7433676533407471114
+    second: Materials_112
+  - first:
+      213: 5198339437345682481
+    second: Materials_113
+  - first:
+      213: 8702785570358463150
+    second: Materials_114
+  - first:
+      213: -8269628283083230324
+    second: Materials_115
+  - first:
+      213: -5435864337055876129
+    second: Materials_116
+  - first:
+      213: 3199256361333791905
+    second: Materials_117
+  - first:
+      213: 8091286959255393540
+    second: Materials_118
+  - first:
+      213: -6818461052365014427
+    second: Materials_119
+  - first:
+      213: -4327265127708523707
+    second: Materials_120
+  - first:
+      213: 313136764325470403
+    second: Materials_121
+  - first:
+      213: 1975301945247777066
+    second: Materials_122
+  - first:
+      213: 8735032703758052809
+    second: Materials_123
+  - first:
+      213: -5965094168636306050
+    second: Materials_124
+  - first:
+      213: 4426728200340568464
+    second: Materials_125
+  - first:
+      213: -2068798434592788118
+    second: Materials_126
+  - first:
+      213: 4720148579874095712
+    second: Materials_127
+  - first:
+      213: -5068065112355077248
+    second: Materials_128
+  - first:
+      213: -6734007905206817452
+    second: Materials_129
+  - first:
+      213: 3237201735626617978
+    second: Materials_130
+  - first:
+      213: -3606666784359248475
+    second: Materials_131
+  - first:
+      213: 8854814534562382872
+    second: Materials_132
+  - first:
+      213: -4507193997864317031
+    second: Materials_133
+  - first:
+      213: -633403837616563488
+    second: Materials_134
+  - first:
+      213: -4563449831721611231
+    second: Materials_135
+  - first:
+      213: -37851757140308773
+    second: Materials_136
+  - first:
+      213: -902100217858665331
+    second: Materials_137
+  - first:
+      213: 8297445014845783750
+    second: Materials_138
+  - first:
+      213: -2372695865595608215
+    second: Materials_139
+  - first:
+      213: -6517060804639133273
+    second: Materials_140
+  - first:
+      213: 1729831300646159101
+    second: Materials_141
+  - first:
+      213: -1151940532152953610
+    second: Materials_142
+  - first:
+      213: 4805536617166850780
+    second: Materials_143
+  - first:
+      213: -3795615640315078606
+    second: Materials_144
+  - first:
+      213: -4576917861617576740
+    second: Materials_145
+  - first:
+      213: 6239666742832075671
+    second: Materials_146
+  - first:
+      213: 4480754669355923904
+    second: Materials_147
+  - first:
+      213: 3886076560643593313
+    second: Materials_148
+  - first:
+      213: 2204159897850353281
+    second: Materials_149
+  - first:
+      213: 207661417020705477
+    second: Materials_150
+  - first:
+      213: -8801909268206335969
+    second: Materials_151
+  - first:
+      213: 2838344410920324552
+    second: Materials_152
+  - first:
+      213: -6493827895512550021
+    second: Materials_153
+  - first:
+      213: -7215411654431879295
+    second: Materials_154
+  - first:
+      213: -704207282412654225
+    second: Materials_155
+  - first:
+      213: 2832340318346766658
+    second: Materials_156
+  - first:
+      213: -3122330345023425234
+    second: Materials_157
+  - first:
+      213: -667256845608988261
+    second: Materials_158
+  - first:
+      213: -1599967059361617442
+    second: Materials_159
+  - first:
+      213: -2932011757658346926
+    second: Materials_160
+  - first:
+      213: -7910626188212281563
+    second: Materials_161
+  - first:
+      213: 1142222248404735217
+    second: Materials_162
+  - first:
+      213: -190499713217920857
+    second: Materials_163
+  - first:
+      213: -7738499972455137186
+    second: Materials_164
+  - first:
+      213: -2233909090716571769
+    second: Materials_165
+  - first:
+      213: -3722417912060931503
+    second: Materials_166
+  - first:
+      213: 5305106176947294109
+    second: Materials_167
+  - first:
+      213: 3920099951435690020
+    second: Materials_168
+  - first:
+      213: -7491048527738669367
+    second: Materials_169
+  - first:
+      213: 2445326556879054222
+    second: Materials_170
+  - first:
+      213: -2183330949348653759
+    second: Materials_171
+  - first:
+      213: -2532840443381171732
+    second: Materials_172
+  - first:
+      213: -952737996351093155
+    second: Materials_173
+  - first:
+      213: -2466598947035520940
+    second: Materials_174
+  - first:
+      213: 7851493898936269250
+    second: Materials_175
+  - first:
+      213: 6561781277063219395
+    second: Materials_176
+  - first:
+      213: 3542106195065313839
+    second: Materials_177
+  - first:
+      213: 6518587913531508942
+    second: Materials_178
+  - first:
+      213: -7695400657191054943
+    second: Materials_179
+  - first:
+      213: 4346557671269039773
+    second: Materials_180
+  - first:
+      213: -8386569328415188069
+    second: Materials_181
+  - first:
+      213: -4973113918037824856
+    second: Materials_182
+  - first:
+      213: 6788275961073694743
+    second: Materials_183
+  - first:
+      213: -7560569856356231909
+    second: Materials_184
+  - first:
+      213: 900039828378667091
+    second: Materials_185
+  - first:
+      213: -6274361145331430345
+    second: Materials_186
+  - first:
+      213: 8020600214827860776
+    second: Materials_187
+  - first:
+      213: 4239501929733496089
+    second: Materials_188
+  - first:
+      213: 8171093755051950232
+    second: Materials_189
+  - first:
+      213: 2958956748107163834
+    second: Materials_190
+  - first:
+      213: -1328387028180450781
+    second: Materials_191
+  - first:
+      213: -5028735688898960008
+    second: Materials_192
+  - first:
+      213: 5746657689708789365
+    second: Materials_193
+  - first:
+      213: -3540498507096994992
+    second: Materials_194
+  - first:
+      213: -2080480373087939687
+    second: Materials_195
+  - first:
+      213: -887986047650850491
+    second: Materials_196
+  - first:
+      213: 2315376797886364270
+    second: Materials_197
+  - first:
+      213: 621132647217108205
+    second: Materials_198
+  - first:
+      213: 8049705448593279901
+    second: Materials_199
+  - first:
+      213: 6954824034349820603
+    second: Materials_200
+  - first:
+      213: -8222345419446999676
+    second: Materials_201
+  - first:
+      213: 7564152645675859633
+    second: Materials_202
+  - first:
+      213: -2284500758821361484
+    second: Materials_203
+  - first:
+      213: -5848438951189075838
+    second: Materials_204
+  - first:
+      213: -6098698478006937049
+    second: Materials_205
+  - first:
+      213: -5710402447683531878
+    second: Materials_206
+  - first:
+      213: 7169043853467755711
+    second: Materials_207
+  - first:
+      213: 5941378172894173904
+    second: Materials_208
+  - first:
+      213: -7160997071272420888
+    second: Materials_209
+  - first:
+      213: 6216262848028774957
+    second: Materials_210
+  - first:
+      213: 8030318479881518371
+    second: Materials_211
+  - first:
+      213: 878140095464430790
+    second: Materials_212
+  - first:
+      213: -4291321042803356474
+    second: Materials_213
+  - first:
+      213: 5598856010463896970
+    second: Materials_214
+  - first:
+      213: 5350516981646430721
+    second: Materials_215
+  - first:
+      213: 2383765249856090470
+    second: Materials_216
+  - first:
+      213: -9161817209864261603
+    second: Materials_217
+  - first:
+      213: -7180656475215993300
+    second: Materials_218
+  - first:
+      213: 7777707996481856959
+    second: Materials_219
+  - first:
+      213: 7744486379821356822
+    second: Materials_220
+  - first:
+      213: 8685328632345065999
+    second: Materials_221
+  - first:
+      213: -4602380559306127526
+    second: Materials_222
+  - first:
+      213: -8754103885240724348
+    second: Materials_223
+  - first:
+      213: -5229527135074893721
+    second: Materials_224
+  - first:
+      213: 2503724292305972847
+    second: Materials_225
+  - first:
+      213: -6813096304385092894
+    second: Materials_226
+  - first:
+      213: 5797709646405997375
+    second: Materials_227
+  - first:
+      213: 5273897572293511899
+    second: Materials_228
+  - first:
+      213: 7801650764807455157
+    second: Materials_229
+  - first:
+      213: 4474063284036701441
+    second: Materials_230
+  - first:
+      213: 5277200524643173082
+    second: Materials_231
+  - first:
+      213: -1337737759607921713
+    second: Materials_232
+  - first:
+      213: -7526274285306422928
+    second: Materials_233
+  - first:
+      213: 1610079311404505947
+    second: Materials_234
+  - first:
+      213: -6274670408923757546
+    second: Materials_235
+  - first:
+      213: 5986105897472678095
+    second: Materials_236
+  - first:
+      213: -8621109300566805915
+    second: Materials_237
+  - first:
+      213: -2203710657299362395
+    second: Materials_238
+  - first:
+      213: -1404082522406974984
+    second: Materials_239
+  - first:
+      213: 795671142746875762
+    second: Materials_240
+  - first:
+      213: -8564304918273268284
+    second: Materials_241
+  - first:
+      213: 4499502140080407104
+    second: Materials_242
+  - first:
+      213: 5668943866567248729
+    second: Materials_243
+  - first:
+      213: 6673944084390660129
+    second: Materials_244
+  - first:
+      213: 1103519172494521112
+    second: Materials_245
+  - first:
+      213: -8550922670213198226
+    second: Materials_246
+  - first:
+      213: 26895107659417000
+    second: Materials_247
+  - first:
+      213: 8717780829653812846
+    second: Materials_248
+  - first:
+      213: -7654875303568732851
+    second: Materials_249
+  - first:
+      213: -5434166998706802672
+    second: Materials_250
+  - first:
+      213: 6696609043688717044
+    second: Materials_251
+  - first:
+      213: -4748135230627874145
+    second: Materials_252
+  - first:
+      213: 6110355947373665053
+    second: Materials_253
+  - first:
+      213: 8960494538753553350
+    second: Materials_254
+  - first:
+      213: 521913648012191284
+    second: Materials_255
+  - first:
+      213: -6623622883495465882
+    second: Materials_256
+  - first:
+      213: 6586935745611901991
+    second: Materials_257
+  - first:
+      213: -7332487724268858597
+    second: Materials_258
+  - first:
+      213: 3867598550784561853
+    second: Materials_259
+  - first:
+      213: -2533510561737666621
+    second: Materials_260
+  - first:
+      213: -2721209976001662638
+    second: Materials_261
+  - first:
+      213: 8655442488947952923
+    second: Materials_262
+  - first:
+      213: -5792535091377377315
+    second: Materials_263
+  - first:
+      213: -3829704716473227210
+    second: Materials_264
+  - first:
+      213: 7492357862764076393
+    second: Materials_265
+  - first:
+      213: 6675339881654548749
+    second: Materials_266
+  - first:
+      213: -1794673666997192724
+    second: Materials_267
+  - first:
+      213: 6700529454073335028
+    second: Materials_268
+  - first:
+      213: 7538463015175544488
+    second: Materials_269
+  - first:
+      213: -8252927137653133909
+    second: Materials_270
+  - first:
+      213: -6861317385772292365
+    second: Materials_271
+  - first:
+      213: -6584684895167285645
+    second: Materials_272
+  - first:
+      213: 7862687122925703896
+    second: Materials_273
+  - first:
+      213: -6153015725105322830
+    second: Materials_274
+  - first:
+      213: -8063158501402615521
+    second: Materials_275
+  - first:
+      213: 983047424542987660
+    second: Materials_276
+  - first:
+      213: -7703386073626485719
+    second: Materials_277
+  - first:
+      213: 2944956072962608305
+    second: Materials_278
+  - first:
+      213: -6746323149396888972
+    second: Materials_279
+  - first:
+      213: 988988031610402653
+    second: Materials_280
+  - first:
+      213: -2408458024286462631
+    second: Materials_281
+  - first:
+      213: -5792886437309755783
+    second: Materials_282
+  - first:
+      213: -8906456281244213079
+    second: Materials_283
+  - first:
+      213: 7986560670042240252
+    second: Materials_284
+  - first:
+      213: -4259073728854821625
+    second: Materials_285
+  - first:
+      213: -3549666351003399847
+    second: Materials_286
+  - first:
+      213: 6495188668440400893
+    second: Materials_287
+  - first:
+      213: -4758397169665866388
+    second: Materials_288
+  - first:
+      213: -5252980955622878004
+    second: Materials_289
+  - first:
+      213: 7031595509735774799
+    second: Materials_290
+  - first:
+      213: 8774832959663567293
+    second: Materials_291
+  - first:
+      213: -408662488828936164
+    second: Materials_292
+  - first:
+      213: -8819271473312528
+    second: Materials_293
+  - first:
+      213: 1353463185229431989
+    second: Materials_294
+  - first:
+      213: 8493960589445175829
+    second: Materials_295
+  - first:
+      213: -590340109125038190
+    second: Materials_296
+  - first:
+      213: 4533809589350443347
+    second: Materials_297
+  - first:
+      213: 6120021331912196875
+    second: Materials_298
+  - first:
+      213: 6010598685280550408
+    second: Materials_299
+  - first:
+      213: -5283541959471861576
+    second: Materials_300
+  - first:
+      213: -2452161208403648293
+    second: Materials_301
+  - first:
+      213: -1758140953165932943
+    second: Materials_302
+  - first:
+      213: 9180363857746777191
+    second: Materials_303
+  - first:
+      213: 5620159761592323165
+    second: Materials_304
+  - first:
+      213: 3615610112011326863
+    second: Materials_305
+  - first:
+      213: -308517130477509088
+    second: Materials_306
+  - first:
+      213: -2372047920333692527
+    second: Materials_307
+  - first:
+      213: -8488003520297679139
+    second: Materials_308
+  - first:
+      213: -6328465249207103843
+    second: Materials_309
+  - first:
+      213: 5904068420738909163
+    second: Materials_310
+  - first:
+      213: -6674885410378231807
+    second: Materials_311
+  - first:
+      213: -275240220308886037
+    second: Materials_312
+  - first:
+      213: 565149400683087753
+    second: Materials_313
+  - first:
+      213: 2283606753194534104
+    second: Materials_314
+  - first:
+      213: -7150950733205780663
+    second: Materials_315
+  - first:
+      213: -6243758134652022470
+    second: Materials_316
+  - first:
+      213: -5523534865419075863
+    second: Materials_317
+  - first:
+      213: -5994874293952471550
+    second: Materials_318
+  - first:
+      213: 3244263110048286503
+    second: Materials_319
+  - first:
+      213: 7329304860269653168
+    second: Materials_320
+  - first:
+      213: -7528455171058852322
+    second: Materials_321
+  - first:
+      213: -1561919757345017211
+    second: Materials_322
+  - first:
+      213: -6818009445154846262
+    second: Materials_323
+  - first:
+      213: -729166866469380399
+    second: Materials_324
+  - first:
+      213: 8244936419737164530
+    second: Materials_325
+  - first:
+      213: -7574628176288300314
+    second: Materials_326
+  - first:
+      213: -1181692823904000612
+    second: Materials_327
+  - first:
+      213: -8520561194694556806
+    second: Materials_328
+  - first:
+      213: 3633093318957648430
+    second: Materials_329
+  - first:
+      213: -6085590295458088789
+    second: Materials_330
+  - first:
+      213: 2295987946396546086
+    second: Materials_331
+  - first:
+      213: 2901422351409714066
+    second: Materials_332
+  - first:
+      213: -4801525027274916713
+    second: Materials_333
+  - first:
+      213: -3656776921166090522
+    second: Materials_334
+  - first:
+      213: -3236238268966182819
+    second: Materials_335
+  - first:
+      213: 2678193339622241539
+    second: Materials_336
+  - first:
+      213: 3742959963850637817
+    second: Materials_337
+  - first:
+      213: 238984864167338184
+    second: Materials_338
+  - first:
+      213: 8357461329575047183
+    second: Materials_339
+  - first:
+      213: 4784400187123221470
+    second: Materials_340
+  - first:
+      213: -1915355615954099197
+    second: Materials_341
+  - first:
+      213: -7195901297082925181
+    second: Materials_342
+  - first:
+      213: 1553618320540258758
+    second: Materials_343
+  - first:
+      213: 835259807755620432
+    second: Materials_344
+  - first:
+      213: -1822320814438452893
+    second: Materials_345
+  - first:
+      213: -1184484261626769064
+    second: Materials_346
+  - first:
+      213: -3801691294986848269
+    second: Materials_347
+  - first:
+      213: 8067209760041466229
+    second: Materials_348
+  - first:
+      213: 8999610365309741986
+    second: Materials_349
+  - first:
+      213: 9173053621938384182
+    second: Materials_350
+  - first:
+      213: 6315206186887328219
+    second: Materials_351
+  - first:
+      213: 6892026531831750086
+    second: Materials_352
+  - first:
+      213: -3655887807093034403
+    second: Materials_353
+  - first:
+      213: 7794534561359928951
+    second: Materials_354
+  - first:
+      213: 2030533468517034623
+    second: Materials_355
+  - first:
+      213: -485162195351574887
+    second: Materials_356
+  - first:
+      213: -6820607953132089282
+    second: Materials_357
+  - first:
+      213: 690314372505783407
+    second: Materials_358
+  - first:
+      213: -1992763315795536409
+    second: Materials_359
+  - first:
+      213: 3749969629951457481
+    second: Materials_360
+  - first:
+      213: 7753626602195056990
+    second: Materials_361
+  - first:
+      213: -7339502503337977300
+    second: Materials_362
+  - first:
+      213: 3044027107595650830
+    second: Materials_363
+  - first:
+      213: 9025618271531633151
+    second: Materials_364
+  - first:
+      213: 152886374603571762
+    second: Materials_365
+  - first:
+      213: -2878630562290201147
+    second: Materials_366
+  - first:
+      213: 9149755379778302725
+    second: Materials_367
+  - first:
+      213: 6249177704231578752
+    second: Materials_368
+  - first:
+      213: -6367823882912908074
+    second: Materials_369
+  - first:
+      213: -1131162186485714342
+    second: Materials_370
+  - first:
+      213: 2450008390192054614
+    second: Materials_371
+  - first:
+      213: -5908307184179338344
+    second: Materials_372
+  - first:
+      213: 4689725583876755700
+    second: Materials_373
+  - first:
+      213: 4411900547571300338
+    second: Materials_374
+  - first:
+      213: 9070223464088218796
+    second: Materials_375
+  - first:
+      213: 1497061283510045591
+    second: Materials_376
+  - first:
+      213: -7404289191221569794
+    second: Materials_377
+  - first:
+      213: 7850378459494552417
+    second: Materials_378
+  - first:
+      213: 2550557502524679389
+    second: Materials_379
+  - first:
+      213: -6369816863439922670
+    second: Materials_380
+  - first:
+      213: 5805921879350958279
+    second: Materials_381
+  - first:
+      213: 4758483971262157948
+    second: Materials_382
+  - first:
+      213: -2278516388495752371
+    second: Materials_383
+  - first:
+      213: 6734946241751246487
+    second: Materials_384
+  - first:
+      213: -4695376977558396660
+    second: Materials_385
+  - first:
+      213: -7818750169737532523
+    second: Materials_386
+  - first:
+      213: -9049656304515037986
+    second: Materials_387
+  - first:
+      213: -5163797253525873023
+    second: Materials_388
+  - first:
+      213: -6091320602189988109
+    second: Materials_389
+  - first:
+      213: -5582359990015814187
+    second: Materials_390
+  - first:
+      213: 8779452970374622725
+    second: Materials_391
+  - first:
+      213: -7176732267018197520
+    second: Materials_392
+  - first:
+      213: 1463135235565204758
+    second: Materials_393
+  - first:
+      213: -6897936414961835658
+    second: Materials_394
+  - first:
+      213: -1406057998503765035
+    second: Materials_395
+  - first:
+      213: 3189792321244762391
+    second: Materials_396
+  - first:
+      213: -8879886392698594262
+    second: Materials_397
+  - first:
+      213: 3155329344692132383
+    second: Materials_398
+  - first:
+      213: 8447339001598921904
+    second: Materials_399
+  - first:
+      213: -2315988008590518946
+    second: Materials_400
+  - first:
+      213: 5450516429653145748
+    second: Materials_401
+  - first:
+      213: -5961550643886951626
+    second: Materials_402
+  - first:
+      213: 7139976033525295558
+    second: Materials_403
+  - first:
+      213: -4135151455838366856
+    second: Materials_404
+  - first:
+      213: -7214221440410931473
+    second: Materials_405
+  - first:
+      213: 206626087256340024
+    second: Materials_406
+  - first:
+      213: 5081204429465076809
+    second: Materials_407
+  - first:
+      213: 6254372914353513041
+    second: Materials_408
+  - first:
+      213: -6784789113163692944
+    second: Materials_409
+  - first:
+      213: 8864278300265934196
+    second: Materials_410
+  - first:
+      213: -5029647837135721753
+    second: Materials_411
+  - first:
+      213: 5515331164109614551
+    second: Materials_412
+  - first:
+      213: -2352795696078842106
+    second: Materials_413
+  - first:
+      213: -4754637125206108186
+    second: Materials_414
+  - first:
+      213: 104443147087763598
+    second: Materials_415
+  - first:
+      213: 3669112937400147790
+    second: Materials_416
+  - first:
+      213: 5092263610338570145
+    second: Materials_417
+  - first:
+      213: 3715096990571586208
+    second: Materials_418
+  - first:
+      213: -2711539765835706402
+    second: Materials_419
+  - first:
+      213: -3653402722408120589
+    second: Materials_420
+  - first:
+      213: 442313053336772662
+    second: Materials_421
+  - first:
+      213: -891143900506156588
+    second: Materials_422
+  - first:
+      213: 4621844312754330225
+    second: Materials_423
+  - first:
+      213: -8552535743659073664
+    second: Materials_424
+  - first:
+      213: -265326019998897031
+    second: Materials_425
+  - first:
+      213: 554202388025864689
+    second: Materials_426
+  - first:
+      213: 8349111690630128310
+    second: Materials_427
+  - first:
+      213: -4317557761998759075
+    second: Materials_428
+  - first:
+      213: -4502262312775405519
+    second: Materials_429
+  - first:
+      213: -6523404363875372914
+    second: Materials_430
+  - first:
+      213: -6829300569341442832
+    second: Materials_431
+  - first:
+      213: -620477156453890658
+    second: Materials_432
+  - first:
+      213: -7014601307485570918
+    second: Materials_433
+  - first:
+      213: 8991162949707206625
+    second: Materials_434
+  - first:
+      213: -7846716313401625997
+    second: Materials_435
+  - first:
+      213: 654222575939513320
+    second: Materials_436
+  - first:
+      213: 3317566084321161313
+    second: Materials_437
+  - first:
+      213: -1422419168933103486
+    second: Materials_438
+  - first:
+      213: 7339419970714233122
+    second: Materials_439
+  - first:
+      213: -9089021611198310918
+    second: Materials_440
+  - first:
+      213: 4601250197189435582
+    second: Materials_441
+  - first:
+      213: 5978498253658644856
+    second: Materials_442
+  - first:
+      213: -9195959002751055153
+    second: Materials_443
+  - first:
+      213: 6244748141639260216
+    second: Materials_444
+  - first:
+      213: -8530122504641570723
+    second: Materials_445
+  - first:
+      213: 808821090852135450
+    second: Materials_446
+  - first:
+      213: 1343635495521238407
+    second: Materials_447
+  - first:
+      213: 8775919274395417611
+    second: Materials_448
+  - first:
+      213: 6186183047907620296
+    second: Materials_449
+  - first:
+      213: 7472344681245560088
+    second: Materials_450
+  - first:
+      213: -1556555648517028694
+    second: Materials_451
+  - first:
+      213: 6420421745028678806
+    second: Materials_452
+  - first:
+      213: 5524464509807538238
+    second: Materials_453
+  - first:
+      213: 206926707526868781
+    second: Materials_454
+  - first:
+      213: -8753744579231356964
+    second: Materials_455
+  - first:
+      213: 5395089279279107823
+    second: Materials_456
+  - first:
+      213: 9066729691144944853
+    second: Materials_457
+  - first:
+      213: 8404591009941929739
+    second: Materials_458
+  - first:
+      213: -8128261923731628415
+    second: Materials_459
+  - first:
+      213: -2982885452704684484
+    second: Materials_460
+  - first:
+      213: 3614056889902242699
+    second: Materials_461
+  - first:
+      213: -1331012756460802994
+    second: Materials_462
+  - first:
+      213: 5547556590581739880
+    second: Materials_463
+  - first:
+      213: 2006483775318277926
+    second: Materials_464
+  - first:
+      213: 1319765118110455816
+    second: Materials_465
+  - first:
+      213: -8519947010624835883
+    second: Materials_466
+  - first:
+      213: 8528574885123090158
+    second: Materials_467
+  - first:
+      213: 7254674450747516098
+    second: Materials_468
+  - first:
+      213: 4313296185054819836
+    second: Materials_469
+  - first:
+      213: 4004231014272903998
+    second: Materials_470
+  - first:
+      213: 8715841860885492340
+    second: Materials_471
+  - first:
+      213: 1339081948200276118
+    second: Materials_472
+  - first:
+      213: -2789649760033191634
+    second: Materials_473
+  - first:
+      213: 3197341345684510394
+    second: Materials_474
+  - first:
+      213: -2260263439869572815
+    second: Materials_475
+  - first:
+      213: 6664577915660344722
+    second: Materials_476
+  - first:
+      213: 4567669100545504666
+    second: Materials_477
+  - first:
+      213: 1231714268210558852
+    second: Materials_478
+  - first:
+      213: 5504539069046348469
+    second: Materials_479
+  - first:
+      213: 2002879926126938658
+    second: Materials_480
+  - first:
+      213: 8189254802021241376
+    second: Materials_481
+  - first:
+      213: 6712843883429357658
+    second: Materials_482
+  - first:
+      213: -4415602001408751181
+    second: Materials_483
+  - first:
+      213: -6675580964850192189
+    second: Materials_484
+  - first:
+      213: -1834194401743402481
+    second: Materials_485
+  - first:
+      213: 4289401091119010109
+    second: Materials_486
+  - first:
+      213: 5119973762116977776
+    second: Materials_487
+  - first:
+      213: 6503138111687383905
+    second: Materials_488
+  - first:
+      213: 2767877472959647421
+    second: Materials_489
+  - first:
+      213: 5370845594285213198
+    second: Materials_490
+  - first:
+      213: -5496630987357536514
+    second: Materials4
+  - first:
+      213: 1119285130774675264
+    second: Materials10
+  - first:
+      213: 4751653820380949488
+    second: Materials1
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Materials7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 596
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42899407aeb6e1020800000000000000
+      internalID: 2314405913165404196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials13
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 598
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec86787dd4727d60800000000000000
+      internalID: 7886494392036789482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials16
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 583
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c1e4ee56c6aabf0800000000000000
+      internalID: -312318039103235053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 592
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdf40d266644aff0800000000000000
+      internalID: -25818293201469958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials22
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 592
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0803630838cee3f0800000000000000
+      internalID: -869537535135381494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials25
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 596
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc4ab2e18cd83010800000000000000
+      internalID: 1168926553715395806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials28
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 588
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bcbf92b7182f7f0800000000000000
+      internalID: -580259035992044677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials31
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 591
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceecfdfab1b1040b0800000000000000
+      internalID: -5746563318796005652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials34
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 590
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20ef2b17601c4f40800000000000000
+      internalID: 5713960062250115118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials37
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 590
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd58ab33930f1c00800000000000000
+      internalID: 873420783629131207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials43
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 591
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47f0ff6b05a0abe0800000000000000
+      internalID: -1467992009981495475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials46
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 591
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32b6ac1079c12740800000000000000
+      internalID: 5125599334278541884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials40
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 591
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbd52e68b2be0b30800000000000000
+      internalID: 4255535203103398907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials49
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 586
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21c2886867e87740800000000000000
+      internalID: 5150120609514176813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials52
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 592
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281500d41108f5d30800000000000000
+      internalID: 4422394170895782274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials55
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 593
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82524a88481b70230800000000000000
+      internalID: 3605045209519629608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials64
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 593
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f84a92522095a870800000000000000
+      internalID: 8693513132797741301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials61
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 593
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa81df50875e2990800000000000000
+      internalID: -7408888128102888708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials58
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 593
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e70a75fc7417e090800000000000000
+      internalID: -8005407285700851738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials67
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 589
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16e261f614c27f00800000000000000
+      internalID: 1113167660732048922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials70
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 591
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a0664cff5d1bcc0800000000000000
+      internalID: -3696938524606068081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials73
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 586
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa29f28ffffdcb30800000000000000
+      internalID: 4309381891342543528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials76
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 588
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5145b3e24a848d990800000000000000
+      internalID: -7361053720949599211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials79
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 590
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b278c7c2e1a1d0250800000000000000
+      internalID: 5912410602705028907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials82
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 589
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215f9e324bf76a4c0800000000000000
+      internalID: -4276590384468331246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials85
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 590
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9912a57990b5680800000000000000
+      internalID: -8765401704089675292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials88
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 589
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0c2cad13220d010800000000000000
+      internalID: 1211505897281601752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials91
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 594
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de11bd5717d96080800000000000000
+      internalID: -9193580668944048427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials94
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 593
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7b64d5322d03b10800000000000000
+      internalID: 1959296887236769696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials2
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 566
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f744fbee2ab1d57b0800000000000000
+      internalID: -5233996805330484097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials5
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 563
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4be2a08114e3890800000000000000
+      internalID: -7476466759882590997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 563
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca40dd7aa32e1bc0800000000000000
+      internalID: -3810569019546645811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 563
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690eefb91ab93de60800000000000000
+      internalID: 7985897682667233430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 561
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2fceec3f97e88a0800000000000000
+      internalID: -6300964740589096213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials17
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 548
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e89cad699baaefc0800000000000000
+      internalID: -3464768287849801503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 558
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be9a1f858c300d00800000000000000
+      internalID: 936815266822266548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials23
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 558
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3904e60961674edc0800000000000000
+      internalID: -3610631161959792493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials26
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 561
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c5f5629297c4930800000000000000
+      internalID: 4128808176036305952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials29
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 553
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1907aa7c3c5d0370800000000000000
+      internalID: 8290383903884511516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials32
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 557
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081e526b7d1b4a1c0800000000000000
+      internalID: -4493270988176891520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials35
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 560
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6263736a569d7c340800000000000000
+      internalID: 4884111351510152742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials38
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 560
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685a81fd5ea49df70800000000000000
+      internalID: 9212476863913960838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials44
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 560
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9522671a70ee039c0800000000000000
+      internalID: -3949395156662869415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials47
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 560
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4aa13990271fa670800000000000000
+      internalID: 8552079646176422474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials41
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 560
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96a3660036fd6e30800000000000000
+      internalID: 4498522288939050652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials50
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 553
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ced06d0c43d54f0800000000000000
+      internalID: -838455952791442431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials53
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 558
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ca49f909f507620800000000000000
+      internalID: 2769818845590105107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials56
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 563
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd742239f9c7c6560800000000000000
+      internalID: 7308353320125614043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials65
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 563
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26370d9b13f296800800000000000000
+      internalID: 606067515475391330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials62
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 563
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f70f6b0b286ca90800000000000000
+      internalID: -7293998850984870053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials59
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 563
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75076850aac37250800000000000000
+      internalID: 5941315123458540925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials68
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 555
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32d6ac869daa0000800000000000000
+      internalID: 3005611883549244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials71
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 557
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe9ba849130887d0800000000000000
+      internalID: -2916077351594123586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials74
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 557
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd6a8eb3202a0220800000000000000
+      internalID: 2452808284949343670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials77
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 554
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5418dd306ce54fd0800000000000000
+      internalID: -2358218931759999905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials80
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 556
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9ac3db4ba65a160800000000000000
+      internalID: 7036147317337795020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials83
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 554
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a3ec1683d377720800000000000000
+      internalID: 2843809002076125778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials86
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 559
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5528d3e4b3b3f1b60800000000000000
+      internalID: 7718953412238082645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials89
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 559
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabddd1fab2f339a0800000000000000
+      internalID: -6254388572751799382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials92
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 561
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0801ffcf2afe1b80800000000000000
+      internalID: -8422019169877161974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials95
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 561
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6919908e854f63a0800000000000000
+      internalID: -6670036044767225491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 525
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6460908c9e5e5a70800000000000000
+      internalID: 8817589146702865519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials6
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 524
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dba318acac1c850800000000000000
+      internalID: 6395615916943129964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 524
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166a7313ec9ee9900800000000000000
+      internalID: 693248464459900513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials9
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 524
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6de27da3f739fba0800000000000000
+      internalID: -6054746704296350356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials15
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 525
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de104d679305c970800000000000000
+      internalID: 8774423397909143257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials18
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 525
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e121ea640e8027ed0800000000000000
+      internalID: -2417860290593025506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 522
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a9852958ded42a0800000000000000
+      internalID: -6751479108416792006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials24
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 522
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3afb14886df4b270800000000000000
+      internalID: 8265509841466554943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials27
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 522
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc0ce2086d9874e0800000000000000
+      internalID: -1983662565805519677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials30
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 522
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2a39938ff5ac8f0800000000000000
+      internalID: -519497287285366090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials33
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 523
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381734d1483c71db0800000000000000
+      internalID: -4821169903882767997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials36
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 527
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be68100cc574e130800000000000000
+      internalID: 3595127921583877813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials39
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 525
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecaa3adb8831f58d0800000000000000
+      internalID: -2855542160711505202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials45
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 524
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7495960a364a4b0800000000000000
+      internalID: -5430105710088599618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials48
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 524
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40546a22533feaec0800000000000000
+      internalID: -3553635646408604412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials42
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 524
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dcab7e9eacae530800000000000000
+      internalID: 3885140734524443994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials51
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 519
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec7948fcb5a52c20800000000000000
+      internalID: 3181130942845123820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials54
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 524
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441c67e97eda80c20800000000000000
+      internalID: 3172977147790147908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials57
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 529
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f177715f5591e310800000000000000
+      internalID: 1432590393101742580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials66
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 529
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b85aa29c933a480800000000000000
+      internalID: -8889197703332525177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials63
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 529
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749437e6aac988160800000000000000
+      internalID: 7028039474323081543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials60
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 529
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6727e0fc81bd3d0800000000000000
+      internalID: -3180921434227443969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials69
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 527
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432c31e7ef4e11320800000000000000
+      internalID: 2527052647619609140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials72
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 524
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cd0b175ad873c20800000000000000
+      internalID: 3186171003104451700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials75
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 521
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49da09173e5003e80800000000000000
+      internalID: -8201048447020651116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials78
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 521
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822f9fb7173787780800000000000000
+      internalID: -8685064950135524824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials81
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 526
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e17be655729e480800000000000000
+      internalID: -8869514743246283163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials84
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 522
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc56c2d2cf4b3980800000000000000
+      internalID: -8558158968709030709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials87
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 523
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3497ea1ea5c2a170800000000000000
+      internalID: 8188324424079348798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials90
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 526
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c614114ce95456590800000000000000
+      internalID: -7681657041213898388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials93
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 522
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf576b0317f38df0800000000000000
+      internalID: -179027898996924492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials96
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 522
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbacbb40d7e85a460800000000000000
+      internalID: 7252359442551524028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 596
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe36294d3b08b3b0800000000000000
+      internalID: -5496630987357536514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 596
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f733e65ef788f00800000000000000
+      internalID: 1119285130774675264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Materials1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 596
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb2f6b69f341f140800000000000000
+      internalID: 4751653820380949488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
